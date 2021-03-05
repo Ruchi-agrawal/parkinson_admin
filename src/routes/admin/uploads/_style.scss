@@ -1,0 +1,86 @@
+.bg-container{
+    background-color: #ffffff;
+    box-shadow: 0 1px 15px 1px rgba(69, 65, 78, 0.08);
+    border-radius: 5px;
+}
+.bg-cont-pad{
+    padding: 20px 14px 20px 12px;
+}
+.bottom-border{
+    border-bottom: 1px solid #e1e7ed;
+}
+.form-group {
+    margin-bottom: 12px !important;
+}
+.icons-middle{
+    vertical-align: middle;
+    font-size: 17px;
+}
+.Add-agent-title span{
+    font-size: 22px;
+    font-weight: 500;
+}
+.ti-layout-grid2-alt:before{
+    padding-right: 6px;
+    font-size: 13px;
+}
+.ti-control-backward:before{
+    vertical-align: middle;
+    padding-right:4px;
+  
+}
+Label{
+    font-weight: 500 !important; 
+    font-size: 12px !important;
+}
+.text-area{
+    height: 150px !important;
+}
+.Add-panel-container{
+    padding: 12px 10px 10px 25px;
+}
+.Add-panel-title span{
+    font-size: 14px;
+    font-weight: 600;
+}
+.star span{
+    color: #f43643 !important;
+    font-size: 15px !important;
+    font-weight: 900 !important;
+    padding-left: 2px;
+}
+.submit-container{
+    padding: 0px 38px 12px 13px;
+}
+// .submit-button{
+//     background-color: #0186be !important;
+// }
+// .btn-secondary{
+//     background-color: #;
+// }
+.backBtn-container{
+    padding: 0px 11px 0px 70px;
+}
+.upload-container{
+    border-radius: 6px;
+}
+.custom-button{
+    font-size: 11px !important;
+    padding: 10px !important;
+}
+
+// @media query code css --------------->>>>>>>>
+@media (max-width:320px){
+    .Add-agent-title span{
+        font-size: 21px;
+    }
+}
+@media (max-width:568px){
+    .backBtn-container{
+        padding-right: 10px;
+        padding-left: 50px;
+    }
+}
+@media (min-width:768px) and (max-width:1024px){
+
+}

@@ -1,0 +1,235 @@
+.response_message {
+    text-align: center;
+    background: #e4e4e4;
+    padding: 7px;
+}
+
+p.field_required {
+    color: #ff575f;
+    text-align: left;
+}
+
+.display_inline label, .display_inline input, .display_inline button {
+    display: inline-block;
+    width: 25%;
+    margin: 0 10px;
+}
+
+.make_featured input {
+    margin-left: 10px;
+}
+
+.addAgent {
+    margin-top: 20px;
+}
+
+ul.admin_dashboard_log li {
+    display: inline-block;
+    padding: 7px 10px;
+    font-weight: 700;
+}
+
+ul.admin_dashboard_log li span{
+    margin-left: 7px;
+}
+
+.backgroud-col{
+    background-color: #f5a1bf!important;
+}
+
+.rct-sidebar .rct-sidebar-nav .rct-mainMenu .sub-menu ul li a{
+    color: #fff;
+}
+
+.no-style-label {
+    text-transform: none!important;
+}
+
+.single-feature {
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 30px; }
+    .single-feature .thumb {
+      position: relative; 
+    }
+      .single-feature .thumb a {
+        position: absolute;
+        left: 0px;
+        top: 12px;
+        font-size: 18px;
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+        visibility: hidden;
+        opacity: 0;
+        color: var(--main-color-one);
+     }
+      .single-feature .thumb img {
+          height: 125px;
+          width: 140px;
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+     }
+        .development-feature a.feature-logo {
+            bottom: -24px;
+            top: unset!important;
+            left: unset!important;
+            right: 17px!important;
+            z-index: 1;
+          }
+          .thumb {
+            height: 136px;
+            width: auto;
+            line-height: 58px;
+            outline: auto;
+         }
+         .single-feature .feature-logo {
+            height: 50px;
+            width: 50px;
+            line-height: 47px;
+            text-align: center;
+            position: absolute;
+            left: 10px!important;
+            top: 10px!important;
+            background: #fff;
+            border-radius: 50%;
+            -webkit-box-shadow: 20px 0px 40px rgba(0, 0, 0, 0.3);
+            box-shadow: 20px 0px 40px rgba(0, 0, 0, 0.3);
+            opacity: 1!important;
+            visibility: visible!important;
+        }
+        .single-feature .details .feature-logo img {
+            width: 40px;
+            margin-top: -3px;
+        }
+
+
+.actvDev h3{
+    font-size: 20px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+  }
+  .totalUnitUl ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 32px;
+    font-weight: 600;
+  }
+  .totalUnitUl ul li:last-child {
+    margin-right: 0px !important;
+  }
+  .totalUnitUl ul {
+    padding-left: 0px !important;
+    margin-bottom: 0px !important;
+  }
+  .viewBaner div img {
+      border-radius: 10px;
+    width: 100%;
+  }
+  .viewBaner {
+    position: relative;
+  }
+  .viewImage {
+    position: relative;
+    margin-left: 20%
+  }
+  .viewBaner a img {
+    width: 52px;
+    border-radius: 40px;
+  }
+  .viewImage div img {
+    width: 52px;
+    border-radius: 40px;
+    height: 180px !important;
+    width: 270px !important;
+  }
+  .viewBaner a {
+    display: inline-block;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+  }
+  .viewAvality div a {
+    margin-top: 12px;
+    background: #000000;
+    color: #ffffff !important;
+    display: inline-block;
+    padding: 4px 20px;
+    font-size: 13px;
+    cursor: pointer;
+    border: 1px solid #000000;
+  }
+  .viewAvality div a:hover {
+    color: #000000 !important;
+    background: transparent !important;
+  }
+  .viewAvality label {
+    line-height: 15px;
+    color: #000;
+    font-size: 13px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display: block;
+  }
+  .totalUnitUl {
+    margin-bottom: 42px;
+  }
+  .viewBanerUpr {
+    margin-bottom: 50px;
+  }
+  .viewBanerUpr1 {
+    margin-bottom: 5px;
+  }
+  .viewAvality {
+    padding-top: 12px;
+  }
+  .viewBaner:hover img {
+    -webkit-transform: scale(2.07);
+    -ms-transform: scale(1.5);
+    transform: scale(1.05); }
+    .logo_image_reservation{
+      font-weight: 500!important;
+    }
+
+    .viewImage:hover img {
+      -webkit-transform: scale(1.07);
+      -ms-transform: scale(1.5);
+      transform: scale(1.15); }
+      .logo_image_reservation{
+        font-weight: 500!important;
+      }
+    .fullButton{
+      width: -webkit-fill-available;
+    }
+    .CheckboxUser{
+      margin-left: 0.35rem !important;
+      cursor: pointer;
+    }
+    .loaderClass{
+      left: 40%;
+      position: inherit;
+    }
+    .btn-height{
+      height: 45px !important;
+      max-width: 110px !important;
+    }
+    .react-tel-input .form-control{
+      width: 265px !important;    
+    }
+    .react-tel-input .country-list{
+      position: fixed !important;
+    }
+
+    .viewImagw22{
+      width: 264px;
+      height: 170px;
+      border-radius: 8px;
+    }
+
+    /* img{
+      border-radius: 15px  !important;
+      margin-left: 20%;
+    } */
